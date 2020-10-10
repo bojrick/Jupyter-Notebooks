@@ -1,2 +1,2 @@
-# Naive-Bayes
-Naive Bayes From Scratch in Python
+# Jupyter Notebooks
+Contains Tutorial Notebooks for reference
